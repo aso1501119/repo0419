@@ -4,6 +4,7 @@ public class HelloJava {
 			System.out.println("ピカチュウ");
 			String a = "";
 			System.out.println(a);
+			System.out.println("ぴっぴかちゅうううううう");
 		}
 
 }
