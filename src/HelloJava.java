@@ -5,6 +5,7 @@ public class HelloJava {
 			String a = "";
 			System.out.println(a);
 			System.out.println("ぴっぴかちゅうううううう");
+			System.out.println(1);
 		}
 
 }
