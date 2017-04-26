@@ -6,6 +6,7 @@ public class HelloJava {
 			System.out.println(a);
 			System.out.println("ぴっぴかちゅうううううう");
 			System.out.println(1);
+			System.out.println("内定もらったのはええな");
 		}
 
 }
